@@ -1,0 +1,34 @@
+schema_version = "1.0.0"
+
+id = "b_ease_studio_2"
+version = "2.0.0"
+name = "B-Ease Studio 2"
+tagline = "Create, edit and apply reusable F-Curve easing presets"
+maintainer = "Nisai"
+type = "add-on"
+
+tags = ["Animation", "User Interface"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = [
+  "2025-2026 Nisai",
+]
+
+[permissions]
+files = "Store presets and import settings from earlier versions"
+clipboard = "Copy and paste text in the preset and value fields"
+
+[build]
+paths_exclude_pattern = [
+  "__pycache__/",
+  "/.git/",
+  "/tests/",
+  "/tools/",
+  "/release/",
+  "/*.zip",
+  "*.pyc",
+  "*.pyo",
+  "*.tmp",
+  "*.bak",
+  ".DS_Store",
+]
