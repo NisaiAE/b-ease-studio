@@ -12,18 +12,11 @@ B-Ease Studio 2 は、Blender の F カーブを編集し、イージングの�
 
 ## インストール
 
-**ZIP版の場合**
+[GitHub Releases](<https://github.com/NisaiAE/b-ease-studio/releases>) または BOOTH から、インストール用の `b_ease_studio_2-x.x.x.zip` をダウンロードしてください。
 
 1. 「編集 > プリファレンス > エクステンションを入手」を開く。
 2. 一番右上の「∨」ボタン→「ディスクからインストール」をクリックし、ダウンロードした「b_ease_studio_2-◯.◯.◯.zip」を選択。
 3. 「アドオン」で「B-Ease Studio 2」にチェックが付き、有効になっていることを確認します。
-
-**Blender Extensions版の場合**
-
-1. 「編集 > プリファレンス > エクステンションを入手」を開く。
-2. 検索バーに「B-Ease Studio 2」と入力
-3. 「B-Ease Studio 2」が出てきたら「インストール」をクリック。
-4. 「アドオン」で「B-Ease Studio 2」にチェックが付き、有効になっていることを確認します。
 
 ## 使用方法
 

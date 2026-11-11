@@ -12,18 +12,11 @@ In addition to standard curves between two points, it supports curves with multi
 
 ## Installation
 
-**From a ZIP file**
+Download the installation ZIP (`b_ease_studio_2-x.x.x.zip`) from [GitHub Releases](<https://github.com/NisaiAE/b-ease-studio/releases>) or BOOTH.
 
 1. Open "Edit > Preferences > Get Extensions".
 2. Click the "∨" button in the upper-right corner, select "Install from Disk", and choose the downloaded `b_ease_studio_2-x.x.x.zip` file.
 3. Under "Add-ons", check that "B-Ease Studio 2" is checked and enabled.
-
-**From Blender Extensions**
-
-1. Open "Edit > Preferences > Get Extensions".
-2. Enter "B-Ease Studio 2" in the search field.
-3. When "B-Ease Studio 2" appears, click "Install".
-4. Under "Add-ons", check that "B-Ease Studio 2" is checked and enabled.
 
 ## Getting Started
 
